@@ -22,7 +22,7 @@ Once you install python, the program gets stored on your computer either for a u
 - If you already checked add to PATH during the installation then you don't need add Python.exe to PATH to reference.
 
 When using Command Prompt (CMD) or PowerShell (PS), you can reference the executables files as long as they are within the PATH.
-- Ex. You want to type in ```python``` in CMD in hopes to start the python program. 
+- Ex. You want to type in ```python``` in CMD in hopes to start the python interpreter. 
     - You can do this if you let your OS know where to reference that python.exe in PATH.  
 - You can also be cool and reference Photoshop (or any .exe) if you wanted to.  
     - Once the location or path of photoshop.exe is located, add this to PATH and now you can type ```photoshop``` to open Photoshop.  
