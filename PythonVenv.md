@@ -46,10 +46,10 @@ Here we say open the python module **venv** with `python -m venv`.
 
 ## Activate Virtual Environment
 To use your environment, you need to activate it every single time.  
-`python -m [Virtual Environment Name]\Scripts\activate.ps1`  
+`[Virtual Environment Name]\Scripts\activate.ps1`  
 
 - Ex. .venv is the name of virtual environment folder    
-`python -m .venv\Scripts\activate.ps1`  
+`.venv\Scripts\activate.ps1`  
 
 ## Deactivate
 Type in terminal  
